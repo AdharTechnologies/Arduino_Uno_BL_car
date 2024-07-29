@@ -1,4 +1,4 @@
-# Arduino_Uno_BL_car
+# Arduino_Uno_BT_car
 
 # Description
 This is a Bluetooth cotrolled car base on Arduinno UNO. It cabe controlled using any smartphone
